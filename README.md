@@ -28,7 +28,7 @@ This project showcases how to build an iOS widget that:
 
 ### Clone the Repository
 
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/HiteshM200ok/iOSWidgetExplorer.git
 
 ### TrialWidget
 
